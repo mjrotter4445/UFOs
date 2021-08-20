@@ -79,8 +79,8 @@ but it has some limitations in features that could definately be improved:
  and access without scrolling to the top.
       - Exploring the use of and investing in the time to develop **drop-down menus** would be worth it because it will 
       significantly improve the user experience.  
- - The **text case** is awkward to use and could be improved by coverting all letters to lower case from user input.  For example, 
- Utah could be found if "ut" or "UT" were entered by the user.   
+ - The **text case** is awkward to use and could be improved by converting all letters to lower case from user input.  
+ For example, Utah could be found if "ut" or "UT" were entered by the user.   
  
  
 
