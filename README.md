@@ -17,12 +17,12 @@ used often to build extra functionality and customization into web pages.  Also 
 and software.   
 
 ### Resources
-The data for the table is stored in a JavaScript array or list named **data.js**
-The table is built by inserting **JavaScript** into **HTML** page. *app.py*.
-**HTML** is used to to build the webpage *index.html*. 
-**CSS** and **Boostrap** then builds and styles the page *style.css*.  
-Fire fox Developer Tools are ideal to test the code as we progress through the development.    
-Further we use a new Dependency named **D3**. 
+   - The data for the table is stored in a JavaScript array or list named **data.js**.
+   - The table is built by inserting **JavaScript** into **HTML** page. *app.py*.
+   - **HTML** is used to to build the webpage *index.html*. 
+   - **CSS** and **Boostrap** then builds and styles the page *style.css*.  
+   - Fire fox Developer Tools are ideal to test the code as we progress through the development.    
+   - Further we use a new Dependency named **D3** Library for maximum webpage visualization and styling.  
 
  ### Results
 Raw data from JavaScript array is now displayed in a dynamic table where userrs can filter data
@@ -74,10 +74,11 @@ interaction require quite a bit of work and patience.   I like the look of this 
 but it has some limitations in features that could definately be improved:  
  - The **date entry format** could be improved to something more standard like mm/dd/yyyy. 
  This would improve the user experience to something they are more used to using in daily life.  
- - The **reset button location** could be designed to be closer to the filter input box.  It needs to be easier to see 
+ - The **reset button location** could be de
+ ned to be closer to the filter input box.  It needs to be easier to see 
  and access without scrolling to the top.
       - Exploring the use of and investing in the time to develop **drop-down menus** would be worth it because it will 
-      signifcantly improve the user experience.  
+      significantly improve the user experience.  
  - The **text case** is awkward to use and could be improved by coverting all letters to lower case from user input.  For example, 
  Utah could be found if "ut" or "UT" were entered by the user.   
  
