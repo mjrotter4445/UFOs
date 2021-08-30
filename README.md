@@ -35,7 +35,7 @@ slashes, etc.. City, state, and country should be entered in lower case.
 </p>   
 
 <p align="center">
-   <img width="200" height="200" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/DynamicFilterSearch.jpg">
+   <img width="200" height="300" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/DynamicFilterSearch.jpg">
 </p>   
 <p align="center">
 Dynamic multi-filter for user input
