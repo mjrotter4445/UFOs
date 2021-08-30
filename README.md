@@ -48,7 +48,7 @@ data.  There is an important tip in using these search fields.
 *Please follow the example above closely*.    
 
 <p align="center">
-   <img width="600" height="300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/results.png">
+   <img width="600" height="300" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/results.jpg">
 </p>   
 <p align="center">
 New table that displays only the results that matches the user input
