@@ -61,7 +61,7 @@ the filter is cleared, the user can use filter again.
 
 
 <p align="center">
-   <img width="200" height="175" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/howtoreset.png">
+   <img width="200" height="175" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/howtoreset.png">
 </p>   
 <p align="center">
 Reset filter and refresh page button at the TOP LEFT CORNER of the web-page
