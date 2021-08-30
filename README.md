@@ -1,7 +1,7 @@
 # UFOs
 *A JavaScript Interactive web-page*
 <p align="center">
-   <img width="1000" height="100" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/ufooverhead.png">
+   <img width="1000" height="100" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/ufooverhead.png">
 </p>   
 
 ## Project Overview
