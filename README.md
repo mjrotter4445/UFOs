@@ -8,7 +8,7 @@
 ### Purpose  
 The purpose of this project is to build a dynamic web-page that displays UFOs sightings observations information 
 for upcoming annual gathering of UFO enthusiasts in McMinnville, Oregon.  There is a lot of data to display so adding 
-filters to the table which lets uses refine their search on one of more than one level is abosolutely necessary.   
+filters to the table which lets uses refine their search on one of more than one level is absolutely necessary.   
 
 ### Background & the Process of Development
 In this development, we used **JavaScript** as the primary coding language.  JavaScript is a scripting or
