@@ -31,7 +31,7 @@ including, with styling, the user is given an example of how to format their dat
 slashes, etc.. City, state, and country should be entered in lower case.  
 
 <p align="center">
-   <img width="1000" height="100" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/Heading_truth.png">
+   <img width="1000" height="100" src="https://github.com/mjrotter4445/UFOs/blob/main/static/Images/the%20truthheading.jpg">
 </p>   
 
 <p align="center">
